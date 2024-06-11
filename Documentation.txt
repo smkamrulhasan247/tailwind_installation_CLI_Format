@@ -1,4 +1,4 @@
-go to =>  output/index.html  & Enter your code here
+go to =>  output/index.html  & custom.css  Enter your code here
 https://tailwindcss.com/docs/installation
 
 1. Install Tailwind CSS
