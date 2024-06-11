@@ -1,0 +1,22 @@
+:root {
+  --primaryColor: #fdcb6e;
+  --secColor: #dfe6e9;
+  --darkColor: #00b894;
+  --whiteColor: #fff;
+  --blackColor: #000;
+  --navyblueColor: #2d2e57;
+  --skyblueColor: #7fc7e9;
+  --thistle: #d4b6d4;
+  --turquoise: #3fddcd;
+  --defaultWidth: 90%;
+}
+
+h2::selection {
+  background: var(--primaryColor);
+  color: var(--whiteColor);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
